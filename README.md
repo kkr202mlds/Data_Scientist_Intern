@@ -1,4 +1,5 @@
-# Internship Associate Sport Data Scientist
+# Data Scientist Internship
+## Implementation of Football Analystics in Data Revolution
 ### Using **Statsbomb** [https://statsbomb.com]
 
 ## ABSTRACT
